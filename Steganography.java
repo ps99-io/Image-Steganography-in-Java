@@ -1,18 +1,3 @@
-/*
-002
- *@author  William_Wilson
-003
- *@version 1.6
-004
- *Created: May 8, 2007
-005
- */
-
-/*
-008
- *import list
-009
- */
 
 import java.io.File;
 
