@@ -1,11 +1,5 @@
 
 /*
- *@author William_Wilson
- *@version 1.0
- *Created May 10, 2007
- */
-
-/*
  *Import List
  */
 import java.awt.Color;
