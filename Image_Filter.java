@@ -1,11 +1,5 @@
 
 /*
- *@author William_Wilson
- *@version 2.0
- *Created May 10, 2007
- */
-
-/*
  *Import List
  */
 import java.io.*; 
